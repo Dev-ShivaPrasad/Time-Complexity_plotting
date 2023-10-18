@@ -15,7 +15,8 @@ you can open CMD(Command Prompt) to install it
 ```terminal
 winget install gnuplot
 ```
-##Images
+## Images
+
 ![Command Init](https://github.com/Dev-ShivaPrasad/Time-Complexity_plotting/assets/88733524/59000c5a-ce23-4e79-9fcd-a37f304539d7)
 ![succesfully Downloaded](https://github.com/Dev-ShivaPrasad/Time-Complexity_plotting/assets/88733524/70c1336c-a06e-48ff-9775-0678bd16e8e9)
 ![succesfully Installed](https://github.com/Dev-ShivaPrasad/Time-Complexity_plotting/assets/88733524/768efe19-da85-414f-8d12-5e245a9128aa)
@@ -24,7 +25,8 @@ Go to installed path(Usually the path will be "C:\Program Files\gnuplot\bin") an
 Paste the path in Environmental variables > Path > new path > Paste.
 ![5](https://github.com/Dev-ShivaPrasad/Time-Complexity_plotting/assets/88733524/68727e77-e4ab-4e3a-8a0c-7ad61290ac3a)
 
-#OUTPUT
+# OUTPUT
+
 graph of QUICKSORT.
 ![Quick sort](https://github.com/Dev-ShivaPrasad/Time-Complexity_plotting/assets/88733524/54c80a80-ed7f-4e81-8c02-bae6172ee68a)
 
