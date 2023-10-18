@@ -4,14 +4,17 @@ gnuplot is a command-line and GUI program that can generate two- and three-dimen
 
 ## Installation
 during this commit we used:
-File version: 5.4.8.o
-Product version: 5 patchlevel 8
+
+File version: 5.4.8.0
+
+Product version: 5.4 patchlevel 8
 
 Vist the offical website [GNU](http://www.gnuplot.info/download.html/) to install GNU PLOT.
 
 OR
 
 you can open CMD(Command Prompt) to install it
+
 ```terminal
 winget install gnuplot
 ```
